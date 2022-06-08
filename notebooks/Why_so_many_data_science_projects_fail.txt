@@ -1,0 +1,23 @@
+Why so many projects fail and even more never make it to production: 85% of Data Science projects fail
+
+requirement gathering 1 pager
+
+Lack of data for the project - early fail no worries
+Fail to turn a business problem into a Data Science use case.
+Fail to gather requirements
+Fail to define target variable and train data appropriately ( Do you know what you want to know?)
+Fail to follow single universally agreed sequential order
+
+1. Gather requirements
+2. Gather potentially relevant data
+3. Structure data and target variable
+4. Explore
+5. Re-evaluate all assumptions made and re-iterate 2-5
+6. Pick single performance metric
+7. Build model 
+8. Error Analysis and re-iterate 2, 3 , 4,5,7
+9. Deploy in Prod
+10. Monitor model
+
+Fail to plan for prediction in production when building a model offline
+Fail to Move beyond predictions
